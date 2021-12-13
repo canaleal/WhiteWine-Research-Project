@@ -10,3 +10,5 @@ ABV (Alcohol by volume) is an important global standard of measurement that is u
 ##### Keywords: Pycaret, Regression, Data Cleaning, Wine
 
 Dataset: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+Video: https://youtu.be/MFd1-FAyPF8
